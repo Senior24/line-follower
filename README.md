@@ -72,7 +72,7 @@ I couldnt find the right software to display schematic as image, so I used table
 | -         | GND       |
 
 ### Notes
-- Don't use more than two batteries because Arduino Nano can't handle so much current
+- Don't use more than two batteries because Arduino Nano can't handle so much voltage
 - Add a switch to battery set for turn on/off
 - Make sure Arduino Nano's and TB6612FNG's GND pins are wired to each other
 
